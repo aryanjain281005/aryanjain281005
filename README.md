@@ -107,7 +107,7 @@ fun_fact: "My obsession with problem-solving was born on Codeforces 🔥"
 
 <h3 align="center">🧠 Second Brain</h3>
 <div align="center">
-<a href="https://github.com/aryanjain281005/second-brain" target="_blank">
+<a href="https://github.com/aryanjain281005/second-Brain" target="_blank">
 <img src="https://img.shields.io/badge/🔗_View_Repo-b400ff?style=for-the-badge&logoColor=white"/>
 </a>
 <p><strong>JavaScript | React | AI</strong></p>
