@@ -103,23 +103,11 @@ fun_fact: "My obsession with problem-solving was born on Codeforces 🔥"
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-<h3 align="center">🤖 IoT AI Project</h3>
-<div align="center">
-<a href="https://github.com/aryanjain281005/iotproject" target="_blank">
-<img src="https://img.shields.io/badge/🔗_View_Repo-00d4ff?style=for-the-badge&logoColor=white"/>
-</a>
-<p><strong>Python | AI/ML | IoT</strong></p>
-<p>AI model application combining IoT and machine learning for intelligent automation and data-driven insights 📊</p>
-</div>
-
-</td>
-<td width="50%">
+<td colspan="2">
 
 <h3 align="center">🧠 Second Brain</h3>
 <div align="center">
-<a href="https://github.com/aryanjain281005" target="_blank">
+<a href="https://github.com/aryanjain281005/second-brain" target="_blank">
 <img src="https://img.shields.io/badge/🔗_View_Repo-b400ff?style=for-the-badge&logoColor=white"/>
 </a>
 <p><strong>JavaScript | React | AI</strong></p>
